@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![header](https://github.com/Danchikon/Danchikon/blob/main/image-hero.jpg)
 <!--
 **nodari-dev/nodari-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
