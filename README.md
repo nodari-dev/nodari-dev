@@ -1,4 +1,4 @@
-### Hi there 👋
+### HELLO WORLD 👋
 ![header](https://github.com/nodari-dev/nodari-dev/blob/main/image-hero.gif)
 <!--
 **nodari-dev/nodari-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
