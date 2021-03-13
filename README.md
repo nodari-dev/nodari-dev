@@ -3,7 +3,5 @@
 
 I'm a web developer from Ukraine.
 
-:cupid: Python, JS, PHP                 
-:dizzy: Shopify, WordPress
-:gun: Sass
+:cupid: Python, JS, PHP / :dizzy: Shopify, WordPress / :gun: Sass
 
