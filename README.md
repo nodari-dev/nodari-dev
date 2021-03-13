@@ -3,10 +3,7 @@
 
 I'm a web developer from Ukraine.
 
-Short info:
-Lang = ['Python', 'JS', 'PHP'];                 
-
-CMS = ['Shopify', 'WordPress']
-
-Preprocessors = ['sass']
+:cupid: Python, JS, PHP                 
+:dizzy: Shopify, WordPress
+:gun: Sass
 
