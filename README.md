@@ -8,5 +8,5 @@ Lang = ['Python', 'JS', 'PHP'];
 
 CMS = ['Shopify', 'WordPress']
 
-Preprocessors = ['sass/scss']
+Preprocessors = ['sass']
 
