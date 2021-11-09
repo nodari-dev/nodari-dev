@@ -3,5 +3,5 @@
 
 I'm a web developer from Ukraine.
 
-:cupid: JS, TypeScript, PHP / :dizzy: Shopify, WordPress / :gun: Sass, Less / :ocean: React / Docker
+:cupid: JS, TypeScript, PHP / :ocean: React / Docker / :dizzy: Shopify, WordPress / :gun: Sass, Less
 
